@@ -1,6 +1,8 @@
 @media screen and (min-width: 1024px) {
+    /* Hero Section */
     .hero-section {
-        padding: 4rem 0;
+        margin-top: 150px;
+        margin-bottom: 100px;
     }
 
     .hero-section .hero-image {
@@ -24,10 +26,17 @@
         left: 0;
         z-index: 1;
     }
+
+    /* Pink Section */
+    .pink-section-content {
+        padding-right: 92px;
+    }
+
+
 }
 
 .hero-section .hero-content h1 {
-    font-size: 700;
+    font-weight: 700;
     margin-bottom: 50px;
     color: #212353;
 }
@@ -36,4 +45,27 @@
     color: #4b5d68;
     font-weight: 500;
     line-height: 2;
+}
+
+/* Pink Section */
+.pink-section-background {
+    background-image: url("../img/pink-bg.svg"); /* Background resmi yanlış */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pink-section h2 {
+    color: #212353;
+    font-weight: 700;
+    line-height: 52px;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.pink-section p {
+    color: #4b5d68;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
 }
