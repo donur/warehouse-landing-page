@@ -18,6 +18,7 @@ ul, ol {
 
 button {
     border: none;
+    background-color: transparent;
 }
 
 a {
