@@ -1,0 +1,5 @@
+.comments .comments-slider .comment-item {
+    background-color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+}
