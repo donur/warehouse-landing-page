@@ -1,6 +1,6 @@
 # Warehouse Landing Page
 
-<img src="./assets/imgScreenShot.png" alt="screenshot" width="600px"/>
+<img src="./assets/img/ScreenShot.png" alt="screenshot" width="600px"/>
 
 ## Contribute
 
